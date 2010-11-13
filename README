@@ -1,0 +1,6 @@
+Playground for Rails 3 + Mongoid
+================================
+
+Cannot make the tests passing. I guess related to the view and nested resources.
+
+Main issue in app/views/comments/index
